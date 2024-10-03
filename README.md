@@ -21,4 +21,7 @@
 </div>
 
 ## Tutorial
-<iframe src="https://www.youtube.com/watch?v=kVpv8-5XWOI" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<video width="1920" height="1080" controls>
+  <source src="CVAT_ManualAnnotations.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
