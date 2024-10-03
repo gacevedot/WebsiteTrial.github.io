@@ -22,7 +22,7 @@
 
 ## Pipeline
 <div align="center">
-    <img src="VisionMD_Pipeline" alt="Pipeline" />
+    <img src="VisionMD_Pipeline.png" alt="Pipeline" />
 </div>
 
 ## Tutorial
