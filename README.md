@@ -5,8 +5,12 @@
   Gabriela T. Acevedo T.<sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, Diego L. Guarin<sup>1,2</sup>
 </div>
 <br>
-1Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida, Gainesville, Florida, United States of America.
-2Department of Neurology, University of Würzburg, Germany
-3Fixel Institute for Neurological Disease, College of Medicine, University of Florida, Gainesville, Florida, United States of America.
-4Crayton Pruitt Family Department of Biomedical Engineering, University of Florida, Gainesville, Florida, United States of America.
-5Department of Neurology, College of Medicine, University of Florida, Gainesville, Florida, United States of America. 
+<sup>1</sup>Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida.
+<br>
+<sup>2</sup>Department of Neurology, University of Würzburg.
+<br>
+<sup>3</sup>Fixel Institute for Neurological Disease, University of Florida.
+<br>
+<sup>4</sup>Crayton Pruitt Family Department of Biomedical Engineering, University of Florida.
+<br>
+<sup>5</sup>Department of Neurology, University of Florida. 
