@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VisionMD: An Open-Source Tool for Video-Based Analysis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 0;
+    }
+    h1 {
+      text-align: center;
+    }
+    .authors {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .affiliations {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .abstract-box {
+      background-color: #D3D3D3;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 40px 0;
+    }
+    .pipeline-image {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0;
+    }
+    .tutorial-video {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>VisonMD: An Open-Source Tool for Video-Based Analysis of Motor Function in Movement Disorders</h1>
+
+  <div class="authors">
+    Gabriela T. Acevedo T.<sup>1</sup>, Florian Lange<sup>2</sup>, Carolina Calonge<sup>1</sup>, Robert Peach<sup>2</sup>, Joshua K. Wong<sup>3,5</sup>, Diego L. Guarin<sup>1,2</sup>
+  </div>
+  
+  <div class="affiliations">
+    <sup>1</sup>Movement Estimation and Analysis Laboratory, Department of Applied Physiology and Kinesiology, University of Florida.<br>
+    <sup>2</sup>Department of Neurology, University of Würzburg.<br>
+    <sup>3</sup>Fixel Institute for Neurological Disease, University of Florida.<br>
+    <sup>4</sup>Crayton Pruitt Family Department of Biomedical Engineering, University of Florida.<br>
+    <sup>5</sup>Department of Neurology, University of Florida.
+  </div>
+
+  <h2>Abstract</h2>
+  <div class="abstract-box">
+    <p>VisionMD is an innovative, open-source software tool designed to enhance the assessment of motor function in patients with Parkinson’s disease (PD) through automatic video-based analysis of standardized motor tasks from the MDS-UPDRS Part III. Traditional clinical assessments, while widely used, rely heavily on the expertise of trained raters, which can lead to inconsistencies and limitations in diagnosing and managing early-stage PD. VisionMD addresses these challenges by offering a user-friendly interface that allows clinicians to process videos of motor tasks with minimal technical expertise. The software employs advanced algorithms to automatically detect subjects, track body movements, and quantify kinematic features such as speed and amplitude. In our studies, VisionMD demonstrated excellent inter-rater reliability, achieving Intraclass Correlation Coefficients (ICCs) ranging from 0.96 to 1.00 for kinematic features, significantly outperforming traditional MDS-UPDRS scores, which exhibited ICCs around 0.74. By providing objective, consistent, and transparent evaluations of motor function, VisionMD facilitates enhanced clinical decision-making and research capabilities. Furthermore, its local processing capabilities ensure data privacy and security, making it accessible for widespread use in both clinical and research settings. Overall, VisionMD stands as a promising advancement in the objective assessment of motor performance, aiming to improve the standardization and accuracy of evaluations in the management of Parkinson’s disease and other movement disorders.</p>
+  </div>
+
+  <h2>Pipeline</h2>
+  <div class="pipeline-image">
+    <img src="VisionMD_Pipeline.png" alt="Pipeline" />
+  </div>
+
+  <h2>Tutorial</h2>
+  <div class="tutorial-video">
+    <video width="960" height="540" controls>
+      <source src="CVAT_ManualAnnotations.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</body>
+</html>
