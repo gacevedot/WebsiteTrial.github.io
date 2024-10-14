@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: "VisionMD" }}</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: white;
+    }
+    h1 {
+      text-align: center;
+    }
+    .authors {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .affiliations {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .abstract-box {
+      background-color: #D3D3D3;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 40px 0;
+    }
+    .pipeline-image {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0;
+    }
+    .tutorial-video {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+</body>
+</html>
