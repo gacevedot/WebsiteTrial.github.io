@@ -1,2 +1,2 @@
-remote_theme: minimal-mistakes
+theme: "daattali/beautiful-jekyll"
 title: VisionMD
